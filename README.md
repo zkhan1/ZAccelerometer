@@ -4,4 +4,5 @@ to visualize the real time data.
 
 debug-apk is located under app/build/outputs/apk/debug/
 
+For a screenshot: https://github.com/zkhan1/ZAccelerometer-Android-app/issues/1
 
